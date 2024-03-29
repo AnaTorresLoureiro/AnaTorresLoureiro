@@ -7,20 +7,16 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-    # every 12 hours
+      # every 12 hours
     - cron: "0 */12 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the main branch
+  # Also run on every push on the master branch
   push:
     branches:
     - main
-
-# Environment variables
-env:
-  DARK_MODE: 'true'
 
 # The sequence of runs in this workflow:
 jobs:
@@ -33,9 +29,6 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
-    
-      - name: Set up dark mode
-        run: echo 'body { background-color: #1e1e1e; color: #c9d1d9; }' >> $GITHUB_WORKSPACE/dist/style.css
     
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
