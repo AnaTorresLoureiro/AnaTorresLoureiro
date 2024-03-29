@@ -12,8 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-laura-torres-loureiro-b85ba1298/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lana.007_/)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTorresLoureiro&show_icons=true&theme=gotham)
 
 ![snake gif](https://github.com/AnaTorresLoureiro/AnaTorresLoureiro/blob/output/github-contribution-grid-snake.svg)
 <!--
