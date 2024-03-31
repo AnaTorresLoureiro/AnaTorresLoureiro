@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
 </div>
     
 <!-- GIF -->
@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-laura-torres-loureiro-b85ba1298/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lana.007_/)
 - 🔭 I’m currently studing on FIAP
-- - 📫Reach me on: al.t.loureiro0@gmail.com
+- 📫Reach me on: al.t.loureiro0@gmail.com
 
 ![snake gif](https://github.com/AnaTorresLoureiro/AnaTorresLoureiro/blob/output/github-contribution-grid-snake.svg)
 <!--
